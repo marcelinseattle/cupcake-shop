@@ -1,0 +1,17 @@
+img.intro {
+  border: 2px solid;
+  border-radius: 25px;
+}
+
+h2.intro {
+  font-weight: lighter;
+}
+
+p.intro {
+  font-family: cursive;
+  font-family: sans-serif;
+}
+
+p.nada {
+  color: red;
+}
