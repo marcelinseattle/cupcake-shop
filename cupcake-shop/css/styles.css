@@ -1,0 +1,12 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+li.list {
+  color: blue;
+}
+
+.best {
+  font-family:fantasy;
+  color: gray;
+}
